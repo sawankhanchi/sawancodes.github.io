@@ -26,8 +26,8 @@ endDate: "2020-10-21"
 
 * Sign-In workflow with Firebase.</p>
 
-**Sappler IELTS,** ***April 2020***
-[View](/projects/weather-app "Sappler IELTS")
+**IELTS Sappler,** ***April 2020***
+[View](/projects/weather-app "IELTS Sappler")
 
 * Responsive app created using JavaScript, HTML & CSS.</p>
 

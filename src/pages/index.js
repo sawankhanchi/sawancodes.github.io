@@ -94,7 +94,7 @@ export default ({ data }) => {
               title="Medium"
             />
           </a>
-          {/* <a href="../../resume-software-engineer.pdf" target="_blank" download>
+          {/* <a href="../../Sawan Resume - Google Docs1.pdf" target="_blank" download>
             <FontAwesomeIcon
               icon={["fas", "file-alt"]}
               className="icons file"
