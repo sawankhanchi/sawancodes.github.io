@@ -40,8 +40,8 @@ In the meanwhile, check out a game for mastering CSS flexbox — flexbox Froggy.
 
 **JavaScript** is a great choice in 2020. You need it if you want to make your website or web application interactive.
 
-I really recommend to learn basics from Udemy Free Courses, for example **“Complete JavaScript Course for Beginners” by Jonas Schmedtmann.** It’s informative and well explained, and I’ve taken it too. In my opinion, some of the topics need to be upgraded, but because it’s free, I’m so grateful.
-There is also a newest version of the same course which can be purchased on Udemy.
+I really recommend to learn basics from Free Courses platforms, for example **“Complete JavaScript Course for Beginners” by Jonas Schmedtmann,** freeCodeCamp, Codecademy and many more. It’s informative and well explained, and I’ve taken it too. In my opinion, some of the topics need to be upgraded, but because it’s free, I’m so grateful.
+There is also a newest version of the same course which can be purchased on Codecademy.
 
 I didn’t take it, so don’t really know what’s the difference.
 I would like to mention, that the choice of the course is completely up to you, I’m just telling which ones I’ve taken and my personal opinion. If you’re thinking about a different one, just make sure it has some interesting projects in it, because you need to get as much practice as possible.
