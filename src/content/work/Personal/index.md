@@ -16,13 +16,16 @@ endDate: "2020-11-21"
 
 * Implemented REST API calls and updated the state throughout the application using Redux.</p>
 
-**Home-Inter, E-commerce,**  ***September-October 2020***
-[View](/projects/my-home "My home, E-commerce")
-* Created with React library and Redux for state management.</p>
+**Recipes-Tracker,** ***September-October 2020***
+[View](/projects/recipes-tracker "Recipes Tracker")
 
-* Built reusable components with Styled-Components.</p>
+* Personal Website for Recipes which allows customers to see all available products.</p>
 
-* Used Redux thunk for asynchronous actions, like bringing Data from Firestore to the App.</p>
+* Build with JavaScript HTML5 & CSS3</p>
+
+* Realized catalog page and designed the logic to allow the user to filter their searches.</p>
+
+* Use of Fetch API to get the data.</p>
 
 **Weather App,** ***August 2020***
 [View](/projects/weather-app "Weather App")
@@ -31,15 +34,12 @@ endDate: "2020-11-21"
 
 * Implemented the AJAX call that retrieves data from the OpenWeather API.</p>
 
-**RorRecipes,** ***May 2020***
-[View](/projects/cake-bakery "Cake Bakery")
+**Home-Inter, E-commerce,**  ***August-September 2020***
+[View](/projects/home-inter "Home Inter, E-commerce")
+* Created with React library and Redux for state management.</p>
 
-* Personal Website for a Cake Bakery, which allows customers to see all available products.</p>
+* Built reusable components with Styled-Components.</p>
 
-* Build with JavaScript HTML5 & CSS3</p>
-
-* Realized catalog page and designed the logic to allow the user to filter their searches.</p>
-
-* Use of Fetch API to get the data.</p>
+* Used Redux thunk for asynchronous actions, like bringing Data from Firestore to the App.</p>
 
 
