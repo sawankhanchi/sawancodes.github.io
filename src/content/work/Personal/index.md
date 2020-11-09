@@ -7,7 +7,7 @@ startDate: "2020-03-04"
 endDate: "2020-11-21"
 ---
 
-**IELTS Selected, IELTS preparation platform,** ***October-November 2020***
+**IELTS At Home, IELTS preparation platform,** ***October-November 2020***
 [View](/projects/weather-app "IELTS Sappler")
 
 * Designed overall reusable component structure of the application. </p>
@@ -16,7 +16,7 @@ endDate: "2020-11-21"
 
 * Implemented REST API calls and updated the state throughout the application using Redux.</p>
 
-**Recipes-Tracker,** ***September-October 2020***
+**Recipes-Tracker,** ***October 2020***
 [View](/projects/recipes-tracker "Recipes Tracker")
 
 * Personal Website for Recipes which allows customers to see all available products.</p>

@@ -1,6 +1,6 @@
 ---
 title: "Recipes-Tracker"
-tags: ["React", "Redux", "SASS", "Rest API", "Firebase", "Firestore"]
+tags: ["JavaScript", "HTML5", "CSS3"]
 date: "2020-06-13"
 websiteLink: "https://recipes-tracker.netlify.app"
 githubLink: "https://github.com/sawankhanchi/Recipes-Tracker"

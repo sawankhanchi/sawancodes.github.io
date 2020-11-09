@@ -1,5 +1,5 @@
 ---
-title: "IELTS Selected"
+title: "IELTS At Home"
 tags:
   [
     "React",
@@ -19,4 +19,4 @@ githubLink: "https://......../"
 </br>
 </br>
 
-**IELTS Selected is an IELTS preparation platform, where users can learn about every modules i.e speaking, listening, reading and writing in order to get desired band score.**
+**IELTS At Home is an IELTS preparation platform, where users can learn about every modules i.e speaking, listening, reading and writing in order to get desired band score.**

@@ -73,7 +73,7 @@ export default ({ data }) => {
           </a>
 
           <a
-            href="mailto:sappler16@gmail.com"
+            href="mailto:sawankhanchi91@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
