@@ -8,7 +8,7 @@ endDate: "2020-11-21"
 ---
 
 **IELTS At Home, IELTS preparation platform,** ***October-November 2020***
-[View](/projects/weather-app "IELTS Sappler")
+[View](/projects/ielts-at-home "IELTS At Home")
 
 * Designed overall reusable component structure of the application. </p>
 
