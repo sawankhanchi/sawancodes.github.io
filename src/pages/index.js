@@ -18,7 +18,7 @@ export default ({ data }) => {
           height="200"
           roundedCircle
           fluid
-          src={`../../icons/sawan2.jpg`}
+          src={`../../icons/sawan.jpg`}
           alt={"front-end developer with laptop"}
         />
 
