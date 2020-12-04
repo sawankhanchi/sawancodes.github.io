@@ -9,8 +9,8 @@ tags:
     "Material UI",
   ]
 date: "2020-08-10"
-websiteLink: "https://......../"
-githubLink: "https://......../"
+websiteLink: "https://ieltsathome.netlify.app"
+githubLink: "https://github.com/sawankhanchi/ielts-at-home"
 ---
 
 <image width="100%" src="../../icons/ielts-01.jpg" frameborder="0" ></image>
