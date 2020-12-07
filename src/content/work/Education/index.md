@@ -13,7 +13,7 @@ endDate: "2020-10-03"
 
 **HarvardX, CS50**
 
-- Introduction to Computer Science. Programmimg in C, Data Structures, Arrays, Memory, Algorithms;
+- Introduction to Computer Science. Programming in C, Data Structures, Arrays, Memory, Algorithms;
 
 </div>
 
@@ -57,6 +57,6 @@ endDate: "2020-10-03"
 
 <img width="30px" src="../../icons/kurukshetra.png" alt="Kuk_logo"></img>
 
-**Kurukshetra University Kurukshetra,** **_Bachelor of Technology, Jul 2014 - May 2018_**
+**Kurukshetra University,** **_Bachelor of Technology, Jul 2014 - May 2018_**
 
 </div>
