@@ -1,7 +1,7 @@
 ---
 title: "Home Inter"
 tags:
-  ["React", "Redux"]
+  ["React", "Redux", "styled-components"]
 date: "2020-07-13"
 websiteLink: "https://......../"
 githubLink: "https://......../"
