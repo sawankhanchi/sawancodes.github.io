@@ -5,8 +5,6 @@ tags:
     "React",
     "React-router",
     "Redux",
-    "styled-components",
-    "Material UI",
   ]
 date: "2020-08-10"
 websiteLink: "https://ieltsathome.netlify.app"
