@@ -61,10 +61,10 @@ export default ({ data }) => {
             </p>
             <div className="pt-2">
               <h4>Skills:</h4>
-              <p><strong>Front-end:</strong> JavaScript, HTML5, CSS3
+              <p><strong>Front-end:</strong> JavaScript, HTML5, CSS3, Python
               </p>
               <p>
-                <strong>Libraries:</strong> ReactJS
+                <strong>Libraries:</strong> React.js, Redux, Material UI, webpack, npm, babel
               </p>
               <p>
                 <strong>Version control:</strong> Git
