@@ -34,16 +34,17 @@ export default ({ data }) => {
           </h1>
           {unemployed && (
             <p className="mt-2">
-              <b> Hello! I am actively looking for new life-changing opportunities :)</b>
+              <b> Software Engineer who has an extensive background in various coding languages,
+                developing web applications, and building websites from the ground up. </b>
             </p>
           )}
           <p>
             <i>
-              {occupation} experienced in Front-end Development, &nbsp;
+              Highly skilled in web development technologies:
             </i>
             <br />
             <i>
-              I'm a self-motivated and well organized person, quick thinking and eager to learn.
+              <b> JavaScript (ES5, ES6), HTML, CSS, React.js, Redux and more. </b>
               </i>
           </p>
         </Container>
