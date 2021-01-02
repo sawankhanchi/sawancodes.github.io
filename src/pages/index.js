@@ -34,10 +34,8 @@ export default ({ data }) => {
           </h1>
           {unemployed && (
             <p className="mt-2">
-            <i>
               <b> Software Engineer who has an extensive background in various coding languages, <br />
                 developing web applications, and building websites from the ground up. </b>
-            </i>
             </p>
           )}
           <p>
