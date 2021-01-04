@@ -64,7 +64,7 @@ export default ({ data }) => {
               <p><strong>Front-end:</strong> JavaScript (ES6+), HTML5, CSS3 (Sass), Python
               </p>
               <p>
-                <strong>Libraries:</strong> React.js, Redux, Material UI, Bootstrap, webpack, npm, babel
+                <strong>Libraries:</strong> React.js, Material UI, Bootstrap, webpack, npm, babel
               </p>
               <p>
                 <strong>Version control:</strong> Git

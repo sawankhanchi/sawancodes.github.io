@@ -34,12 +34,13 @@ endDate: "2020-11-21"
 
 * Implemented the AJAX call that retrieves data from the OpenWeather API.</p>
 
-**Home-Inter, E-commerce,**  ***August-September 2020***
-[View](/projects/home-inter "Home Inter, E-commerce")
-* Created with React library and Redux for state management.</p>
+**Google Keep App Clone,**  ***November-December 2020***
+[View](/projects/google-keep-app "Google Keep App Clone")
 
-* Built reusable components with Styled-Components.</p>
+* Created using HTML, CSS, JavaScript and React.</p>
 
-* Used Redux thunk for asynchronous actions, like bringing Data from Firestore to the App.</p>
+* Implemented the front-end in React.</p>
+
+* Designed overall reusable component structure of the application.</p>
 
 

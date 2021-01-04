@@ -44,7 +44,7 @@ export default ({ data }) => {
             </i>
             <br />
             <i>
-              <b> JavaScript (ES5, ES6), HTML, CSS, React.js, Redux and more. </b>
+              <b> JavaScript (ES5, ES6), HTML, CSS, React.js and more. </b>
               </i>
           </p>
         </Container>
