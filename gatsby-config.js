@@ -24,7 +24,6 @@ module.exports = {
     unemployed: true,
     designations: [
       `Front-End Developer`,
-      `Open Source Contributor`,
     ],
     readingList: [
       {

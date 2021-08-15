@@ -18,7 +18,7 @@ export default ({ data }) => {
           height="200"
           roundedCircle
           fluid
-          src={`../../icons/sawan.jpg`}
+          src={`../../icons/sawan-16.jpg`}
           alt={"front-end developer with laptop"}
         />
 
@@ -44,7 +44,7 @@ export default ({ data }) => {
             </i>
             <br />
             <i>
-              <b> JavaScript (ES5, ES6), HTML, CSS, React.js and more. </b>
+              <b> JavaScript (ES5, ES6), HTML, CSS, React.js, Next.js and more. </b>
               </i>
           </p>
         </Container>

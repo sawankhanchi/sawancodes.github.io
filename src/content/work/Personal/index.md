@@ -4,19 +4,19 @@ location: ""
 position: "Personal Projects"
 tags: []
 startDate: "2020-03-04"
-endDate: "2020-11-21"
+endDate: "2021-07-21"
 ---
 
-**IELTS At Home, IELTS preparation platform,** ***October-November 2020***
+**IELTS At Home, IELTS preparation platform,**
 [View](/projects/ielts-at-home "IELTS At Home")
 
 * Designed overall reusable component structure of the application. </p>
 
-* Implemented the frontend in React.</p>
+* Implemented the frontend in React-native.</p>
 
-* Implemented REST API calls and updated the state throughout the application using Redux.</p>
+* Created using firebase-firestore-database and react-native-elements.</p>
 
-**Recipes-Tracker,** ***October 2020***
+**Recipes-Tracker,**
 [View](/projects/recipes-tracker "Recipes Tracker")
 
 * Personal Website for Recipes which allows customers to see all available products.</p>
@@ -27,20 +27,10 @@ endDate: "2020-11-21"
 
 * Use of Fetch API to get the data.</p>
 
-**Weather App,** ***August 2020***
+**Weather App,**
 [View](/projects/weather-app "Weather App")
 
 * Responsive app created using JavaScript, HTML & CSS.</p>
 
 * Implemented the AJAX call that retrieves data from the OpenWeather API.</p>
-
-**Google Keep App Clone,**  ***November-December 2020***
-[View](/projects/google-keep-app "Google Keep App Clone")
-
-* Created using HTML, CSS, JavaScript and React.</p>
-
-* Implemented the front-end in React.</p>
-
-* Designed overall reusable component structure of the application.</p>
-
 

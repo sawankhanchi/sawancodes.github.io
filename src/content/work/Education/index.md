@@ -3,8 +3,8 @@ company: ""
 location: ""
 position: "Education"
 tags: []
-startDate: "2013-07-01"
-endDate: "2020-10-03"
+startDate: "2017-07-01"
+endDate: "2021-08-03"
 ---
 
 <div>
@@ -57,6 +57,10 @@ endDate: "2020-10-03"
 
 <img width="30px" src="../../icons/kurukshetra.png" alt="Kuk_logo"></img>
 
-**Kurukshetra University,** **_Bachelor of Technology, Jul 2014 - May 2018_**
+**_Bachelor of Technology in Computer Science & Engineering_**
+
+**_Kurukshetra University, Haryana, India_**
+
+**_Jul 2017 - August 2021_**
 
 </div>
