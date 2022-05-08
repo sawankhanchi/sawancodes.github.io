@@ -57,10 +57,10 @@ endDate: "2021-08-03"
 
 <img width="30px" src="../../icons/kurukshetra.png" alt="Kuk_logo"></img>
 
-**_Bachelor of Technology in Computer Science & Engineering_**
+**_Bachelor of Technology in Mechanical Engineering_**
 
 **_Kurukshetra University, Haryana, India_**
 
-**_Jul 2017 - August 2021_**
+**_Jul 2016 - August 2020_**
 
 </div>
